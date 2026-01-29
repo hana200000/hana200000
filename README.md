@@ -52,7 +52,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/hana200000/hana200000/output/snake.svg" alt="Snake animation" />
-
-###
