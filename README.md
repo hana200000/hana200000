@@ -59,9 +59,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana200000&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 ###
-<div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317ewqexr3tubjqoe6oc3grgwxvm)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=317ewqexr3tubjqoe6oc3grgwxvm)&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-###
+
