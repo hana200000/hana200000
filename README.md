@@ -2,10 +2,6 @@
 
 ###
 
-<h1 align="left">About me!😊</h1>
-
-###
-
 <h2 align="left">I'm Hana Emad! 👋  <br>Cybersecurity Student | Front-End Developer</h2>
 
 ###
@@ -58,12 +54,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana200000&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hana200000/hana200000/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hana200000/hana200000/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hana200000/hana200000/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
